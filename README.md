@@ -19,6 +19,7 @@ The Kerala Startup mission is setting up Fab Labs in the state in collaboration 
 
 
 ## Syallbus
-### First day - [Introdution to FabLab](https://jitheeshk.github.io/mescefablab.github.io/)
+### First day  - [Introdution to FabLab](https://jitheeshk.github.io/mescefablab.github.io/)
+### Second day - Introduction to software and Design
 
 
